@@ -1,6 +1,7 @@
+![Front End Developer](https://media.licdn.com/dms/image/D5616AQEXGQrUhDayDw/profile-displaybackgroundimage-shrink_350_1400/0/1677041379305?e=1682553600&v=beta&t=QER7IlAukgqT2mHESDbzHqJtq1SqjnVfCgowIxswJMQ)
+
 ### Hi there 👋,  I,m Md Siam Sheikh
 #### Front End Developer
-![Front End Developer](https://media.licdn.com/dms/image/D5616AQEXGQrUhDayDw/profile-displaybackgroundimage-shrink_350_1400/0/1677041379305?e=1682553600&v=beta&t=QER7IlAukgqT2mHESDbzHqJtq1SqjnVfCgowIxswJMQ)
 
 I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Vue.js & Nuxt.js. I also have experience working with HTML, CSS, Sass, Firebase.
 
