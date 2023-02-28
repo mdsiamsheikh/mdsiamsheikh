@@ -16,14 +16,6 @@ Skills: VUE JS / NUXT JS / JavaScript / HTML5 / CSS / SASS
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Front End Developer 
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mdsiamsheikh)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdsiamsheikh)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsiamsheikh)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsiamsheikh&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/mdsiamsheikh)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdsiamsheikh)  
-
-![Profile views](https://gpvc.arturio.dev/mdsiamsheikh)  
