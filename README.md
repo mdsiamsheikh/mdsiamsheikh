@@ -15,6 +15,7 @@ Skills: VUE JS / NUXT JS / JavaScript / HTML5 / CSS / SASS
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Front End Developer 
+- Watch my speech to text openAI api project: https://vimeo.com/810909253/84da9e78d7
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdsiamsheikh)](https://github.com/ryo-ma/github-profile-trophy)
 
