@@ -17,17 +17,18 @@ I am an excellent communicator and a quick learner. I'm constantly eager to pick
 - 💬 Ask me about Front End Developer 
 - Watch my speech to text openAI api project: https://vimeo.com/810909253/84da9e78d7
 
-<h1 align="center">Hi 👋, I'm Md siam sheikh</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-akram-0b3b43202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-akram-0b3b43202/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/md.akram.shekh.146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.akram.shekh.146/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mdakram1112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mdakram1112/" height="30" width="40" /></a>
-  <a href="https://twitter.com/dev_mdakram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.facebook.com/md.akram.shekh.146/" height="30" width="40" /></a>
-  <a href="https://github.com/Akramsarker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://www.facebook.com/md.akram.shekh.146/" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/mdsiam52620761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mdsiam52620761" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-siam-sheikh-21507523b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-siam-sheikh-21507523b/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/md.siamsheikh01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.siamsheikh01/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mdsiamsheikh10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mdsiamsheikh10/" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> </p>
