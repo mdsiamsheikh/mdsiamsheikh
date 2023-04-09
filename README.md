@@ -27,11 +27,7 @@ I am an excellent communicator and a quick learner. I'm constantly eager to pick
 <a href="https://instagram.com/https://www.instagram.com/mdsiamsheikh10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mdsiamsheikh10/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdsiamsheikh)](https://github.com/ryo-ma/github-profile-trophy)
 
