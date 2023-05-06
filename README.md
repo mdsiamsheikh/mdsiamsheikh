@@ -12,6 +12,7 @@ I am an excellent communicator and a quick learner. I'm constantly eager to pick
 
 
 - 🔭 I’m currently working on CONNEKT STUDIO 
+- 💬 Ping me about JavaScript, Vue, Figma,
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Front End Developer 
