@@ -16,7 +16,6 @@ I am an excellent communicator and a quick learner. I'm constantly eager to pick
 - 📫 Reach me:https://twitter.com/MDSiam52620761
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
-- Watch my speech to text openAI api project: https://vimeo.com/810909253/84da9e78d7
 
 
 <h3 align="left">Languages and Tools:</h3>
