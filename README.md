@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D5616AQFrspqqBKIUyQ/profile-displaybackgroundimage-shrink_350_1400/0/1677673108791?e=1686182400&v=beta&t=rOTjN2U61DiRqkbfSitvzitnJcCfHMJDOH2vqjs_aYk)
+
 
 <h1 align="center">Hi 👋, I'm Md siam sheikh</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
