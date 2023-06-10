@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Md siam sheikh</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3>A passionate frontend developer from Bangladesh</h3>
 
 I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Vue.js & Nuxt.js. I also have experience working with HTML, CSS, Sass, Firebase.
 
