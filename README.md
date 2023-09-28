@@ -13,7 +13,7 @@ I am an excellent communicator and a quick learner. I'm constantly eager to pick
 
 - 🔭 I’m currently working on CONNEKT STUDIO 
 - 💬 Ping me about JavaScript, Vue, Figma,
-- ⚙️ I use daily: HTML, CSS, Javascript, Vue.js, Nuxt.js, Mongodb, Firebase, git & Figma
+- ⚙️ I use daily: HTML, CSS, tailwindcss, Javascript, Vue.js, Nuxt.js, Mongodb, Firebase, git & Figma
 - 📫 Reach me:https://twitter.com/MDSiam52620761
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
