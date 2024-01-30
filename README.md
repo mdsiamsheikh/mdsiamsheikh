@@ -3,7 +3,7 @@
 <h1>Hi 👋, I'm Md siam sheikh</h1>
 <h3>A passionate frontend developer from Bangladesh</h3>
 
-I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Vue.js & Nuxt.js. I also have experience working with HTML, CSS, Sass, Firebase.
+I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Vue.js & Nuxt.js. I also have experience working with HTML, CSS, Sass, and Firebase.
 
 
 I am an excellent communicator and a quick learner. I'm constantly eager to pick up new skills.
