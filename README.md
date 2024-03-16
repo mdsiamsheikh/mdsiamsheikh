@@ -14,8 +14,8 @@ I am an excellent communicator and a quick learner. I'm constantly eager to pick
 - 🔭 I’m currently working on CONNEKT STUDIO
 - ⚙️ I use daily: HTML, CSS, tailwindcss, Javascript, Vue.js, Nuxt.js, Mongodb, Firebase, git & Figma
 - 📫 Reach me:https://twitter.com/MDSiam52620761
-- 👨‍💻 All of my projects are available at https://mdsiamsheikh.netlify.app
 - 🌱 I’m currently learning JavaScript
+- 👨‍💻 All of my projects are available at https://mdsiamsheikh.netlify.app
 
 
 <h3 align="left">Languages and Tools:</h3>
