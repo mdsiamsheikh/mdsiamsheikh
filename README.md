@@ -10,7 +10,7 @@ I am an excellent communicator and a quick learner. I'm constantly eager to pick
 
 
 
-- 🔭 I’m currently working
+- 🔭 I’m currently working Astha Insight  
 - ⚙️ I use daily: HTML, CSS, tailwindcss, Javascript, Vue.js, Nuxt.js, Firebase, Git & GitHub, WordPress
 - 📫 Reach me:https://twitter.com/MDSiam52620761
 - 🌱 I’m currently learning JavaScript
