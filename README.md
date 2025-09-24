@@ -31,6 +31,5 @@ I am an excellent communicator and a quick learner. I'm constantly eager to pick
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdsiamsheikh)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
